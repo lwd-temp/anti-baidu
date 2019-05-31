@@ -30,6 +30,10 @@
                 '  * {' +
                 '    box-sizing: border-box;' +
                 '  }' +
+                '  a {' +
+                '    color: #607D8B;' +
+                '    text-decoration: none;' +
+                '  }' +
                 '  .anti-baidu-row::after {' +
                 '    content: "";' +
                 '    clear: both;' +
