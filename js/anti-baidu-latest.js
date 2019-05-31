@@ -70,7 +70,7 @@
                 '  </div>' +
                 '  <div class="anti-baidu-row">' +
                 '    <div class=anti-baidu-col-12>' +
-                '      <p align="center"><b><a href="http://coolshell.cn/articles/9308.html">做环保的程序员，从不用百度开始！</a></b></p>' +
+                '      <p align="center"><b><a href="https://www.zhihu.com/question/39322261/answer/81023987">如何看待百度将「血友病吧」吧主撤掉并售卖贴吧的行为？</a></b><br><b><a href="https://zhuanlan.zhihu.com/p/23099632">百度作恶一小步，互联网倒退一大步</a></b></p>' +
                 '    </div>' +
                 '  </div>' +
                 '</div>';
